@@ -1,0 +1,11 @@
+所有ipynb格式文件：编程语言python 3.x 依赖库：request，xpath，beautifulsoup4
+football.owl文件为知识图谱，知识图谱可视化.graph为Protégé软件5.5.0导出的可视化图，可以直接用Protégé软件5.5.0打开   环境：Protégé软件5.5.0
+football.turtle文件用于neo4j数据库查询导入，环境：neo4j-community-4.4.1，将数据导入neo4j仓库后可以直接运行其他词探索.ipynb进行查询
+render.html为球队位置可视化动态网页
+其他操作方法和实验环境详情请参考报告。
+
+All ipynb format files: Programming language python 3.x Dependent libraries: request, xpath, beautifulsoup4
+The football.owl file is a knowledge graph, and the knowledge graph visualization.graph is a visualization graph exported by Protégé software 5.5.0. It can be opened directly with Protégé software 5.5.0. Environment: Protégé software 5.5.0
+The football.turtle file is used for neo4j database query import. Environment: neo4j-community-4.4.1. After importing the data into the neo4j warehouse, you can directly run other word exploration.ipynb for query.
+render.html is a dynamic web page that visualizes team positions
+Please refer to the report for other operating methods and experimental environment details.
